@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VJRiver
-- 👀 I’m interested in finance, programming of course, nutrition.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on open source projects or any project to become more experienced.
+- 👀 Currently deepening my knowledge of Cloud Computing fundamentals.
+- 🌱 I currently work as an AI data annotator, evaluating LLM results across multiple dimensions.
 - 📫 How to reach me: by email --> victorjavier0716@gmail.com
 
 <!---
